@@ -1,5 +1,7 @@
 # Enhancing Zero-Shot Real-World Image Denoising via Rolling Up Noise2Noise with Distant-Neighbor Regularization
 
+zhanzhanblue. (2025). zhanzhanblue/R-ZS-N2N: R-ZS-N2N (V1.0.1). Zenodo. https://doi.org/10.5281/zenodo.17600294
+
 This repository is the official PyTorch implementation of R-ZS-N2N: Enhancing Zero-Shot Real-World Image Denoising via Rolling Up Noise2Noise with Distant-Neighbor Regularization. R-ZS-N2N achieves state-of-the-art performance in SIDD Validation, SIDD Benchmark and DND Benchmark.
 
 ## Environment
